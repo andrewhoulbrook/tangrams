@@ -20,7 +20,6 @@ The classic tangram has seven pieces (called Tans) arranged to form a square. Th
 
 While the classic seven-piece tangram dates back to the early ninteenth century, it may trace its origns back to 900 year-old books featuring diagrams of various arrangements of banqueting tables based around a set of seven tables of three different sizes.   
 
-:---------------------------------------:|:----------------------------------------:
 ![Tangram history](/doc/history1.png) | ![Tangram history](/doc/history2.png)
 
 You can read more about the history of the tangram [here](https://chinesepuzzles.org/tangram-puzzle/).
@@ -29,10 +28,7 @@ You can read more about the history of the tangram [here](https://chinesepuzzles
 
 During the initial COVID-19 lockdown period in 2020, my son and I discovered tangrams as one of many things to keep ourselves entertained. When the lockdown ended, one of the first things I did was to buy a real tangram puzzle for us! I made this simple web app so, in the future, we can play tangrams together anywhere.     
 
-:---------------------------------------:|:----------------------------------------:
 ![Lockdown Tangrams](/doc/lockdown1.png) | ![Lockdown Tangrams](/doc/lockdown2.png)
-
-:---------------------------------------:|:----------------------------------------:
 ![Lockdown Tangrams](/doc/lockdown3.png) | ![Lockdown Tangrams](/doc/baba-do-playing-no-working.png)
 
 ## The App
