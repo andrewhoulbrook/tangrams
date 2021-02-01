@@ -33,10 +33,10 @@ During the initial COVID-19 lockdown period in 2020, my son and I discovered tan
 
 <p align="center">
   <img src="/doc/lockdown1.png" alt="lockdown tangrams"/>
-  <img src="/doc/lockdown2.png" alt="lockdown tangrams"/>
+  <img src="/doc/lockdown3.png" alt="lockdown tangrams"/>
 </p>
 <p align="center">
-  <img src="/doc/lockdown3.png" alt="lockdown tangrams"/>
+  <img src="/doc/lockdown2.png" alt="lockdown tangrams"/>
   <img src="/doc/baba-do-playing-no-working.png" alt="the real deal"/>
 </p>
 
