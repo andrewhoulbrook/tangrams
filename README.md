@@ -18,14 +18,7 @@ The classic tangram has seven pieces (called Tans) arranged to form a square. Th
 
 ### History of the Tangram
 
-While the classic seven-piece tangram dates back to the early ninteenth century, it may trace its origns back to 900 year-old books featuring diagrams of various arrangements of banqueting tables based around a set of seven tables of three different sizes.   
-
-<p align="center">
-  <img src="/doc/history1.png" alt="tangram history"/>
-  <img src="/doc/history2.png" alt="tangram history"/>
-</p>
-
-You can read more about the history of the tangram [here](https://chinesepuzzles.org/tangram-puzzle/).
+While the classic seven-piece tangram dates back to the early ninteenth century, it may trace its origns back to 900 year-old books featuring diagrams of various arrangements of banqueting tables based around a set of seven tables of three different sizes. You can read more about the history of the tangram [here](https://chinesepuzzles.org/tangram-puzzle/).
 
 ### Fun with Tangrams
 
