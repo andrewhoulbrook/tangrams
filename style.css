@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Geometrica';
+    src: url(assets/fonts/Geometrica.otf), url(assets/fonts/Geometrica.tff);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Geometrica';
+}
+
+.static {
+    cursor: not-allowed;
+}
+
+.draggable {
+    cursor: move;
+}
